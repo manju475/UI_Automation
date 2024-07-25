@@ -1,7 +1,7 @@
 Created hybrid framework which included Data Driven and Key Driven.
-Scripting language used is JAVA
-Automation Tool used is Selenium
-For Unit test case framework used TestNG
+The scripting language used is JAVA
+The automation Tool used is Selenium
+For the Unit test case framework, I used TestNG
 Design Pattern used as POM(Page Object Model)
 Page Factory used
-Property file is used to store the browser details
+The property file is used to store the browser details
